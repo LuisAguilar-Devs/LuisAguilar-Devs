@@ -3,7 +3,7 @@
 Im a software engeneer graduate with over 3 years of experience in fullstack development, microservices, usage of open-source services and data manipulation scripts.
 I have a love to do everything as good, clean and with a purpose rather than just for the sake of doing it.
 This is where you may find all my proyects that I want to display as profesional rather than something more personal or unfinished proyects
-If you are curious about my personal profile:
+If you are curious about my personal profile: github.com/LuisAguilar-Devs/LuisAguilar-Devs
 
 IFNO:
 Linkdin: www.linkedin.com/in/luis-aguilar-software-dev
